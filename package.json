@@ -9,5 +9,12 @@
     "author": "Lambda School",
     "devDependencies": {
         "nodemon": "^2.0.2"
+    },
+    "repository": "https://github.com/christinebussingerdev/node-db2-project.git",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "knex": "^0.21.1",
+        "sqlite3": "^4.2.0"
     }
 }
